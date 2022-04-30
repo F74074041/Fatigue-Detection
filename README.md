@@ -4,5 +4,5 @@
 `analyze.m`算出8個使用者的平均數和標準差
 
 ## 程式結果
-
+![image](https://github.com/F74074041/Fatigue-Detection/blob/72a478ae837fced279138ed3620f194974d39eaf/output/candy.png)
      
